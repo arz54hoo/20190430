@@ -1,0 +1,3 @@
+C:/Users/seik/CLionProjects/20190430/cmake-build-debug/CMakeFiles/20190430.dir
+C:/Users/seik/CLionProjects/20190430/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seik/CLionProjects/20190430/cmake-build-debug/CMakeFiles/rebuild_cache.dir
